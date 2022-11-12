@@ -1,6 +1,4 @@
-<h1 align=center> 
- Hi👋, I'm Joona Syrjämäki
-</h1>
+![Header](./your-header-image-name.png)
 
 <h4 align=center>4th year information technology student majoring in software engineering at Tampere University 🎓</h4>
 
