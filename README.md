@@ -5,6 +5,16 @@
 - 🌱 I’m currently learning web development. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/joonasyr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/joona-syrj%C3%A4m%C3%A4ki-47a213203//)  
+![Profile views](https://gpvc.arturio.dev/joonasyr) 
 
-![Profile views](https://gpvc.arturio.dev/joonasyr)  
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+### Contact me
+[![Gmail Badge](https://img.shields.io/badge/-joona.syrjamaki@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.miller.vega@gmail.com)](mailto:joona.syrjamaki@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-joonasyr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joona-syrj%C3%A4m%C3%A4ki-47a213203/)](https://www.linkedin.com/in/joona-syrj%C3%A4m%C3%A4ki-47a213203/)
+ 
