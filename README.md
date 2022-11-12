@@ -1,4 +1,4 @@
-![Header](./header.png)
+![Header](./hdr.png)
 
 <p align=center>
  🔭 I’m currently working on <a href="https://github.com/joonasyr/kulukorvausBot"> this script </a> 
