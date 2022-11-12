@@ -35,8 +35,11 @@ Contact me
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joona-syrj%C3%A4m%C3%A4ki- 47a213203/">&nbsp;&nbsp;
  </a>
  <a href="https://www.instagram.com/joonasyr/">
-  <img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/joonasyr/">
+  <img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/joonasyr/">&nbsp;&nbsp;
  </a>
+ <a href="https://t.me/joonasyr">
+  <img src="https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white">
+ <a/>
 </p>
  
 <p align=center>
