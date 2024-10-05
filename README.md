@@ -4,7 +4,7 @@
  🔭 I’m currently working on <a href="https://github.com/joonasyr/kulukorvausBot"> this script </a> 
 </p>
 <p align=center>
- 🌱 I’m currently learning web development. Focusing on front-end technologies at the moment
+ 🌱 I’m currently learning web development, focusing on front-end technologies 
 </p>
 <p align=center>
  ⚡ When I'm not coding, you can find me working out, playing video games, watching Netflix, reading, snowboarding or throwing frisbees to name a few!
